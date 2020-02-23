@@ -11,6 +11,7 @@ const Home = () => {
                 {`
                     div {
                         margin-top: 200px;
+                        padding: inherit;
                     }
                     h1 {
                         text-align: center;
