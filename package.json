@@ -1,5 +1,6 @@
 {
   "name": "amir_portfolio",
+  "engines" : { "node" : ">=10" },
   "version": "1.0.0",
   "description": "Amir Saleem's Portfolio",
   "main": "index.js",
